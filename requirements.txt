@@ -21,6 +21,8 @@ pandas
 scikit-learn
 transformers
 torch
+xgboost
+lightgbm
 
 # Serialization & File Formats
 pyarrow
