@@ -23,6 +23,8 @@ transformers
 torch
 xgboost
 lightgbm
+spacy
+accelerate>=0.26.0
 
 # Serialization & File Formats
 pyarrow
@@ -31,9 +33,6 @@ pyarrow
 pip
 python-dotenv
 emoji
-
-# NLP
-spacy
 
 # Local Package (Editable Install)
 -e .
