@@ -1,14 +1,38 @@
+# Formatting & Code Quality
 black
 flake8
-ipython
 isort
+
+# Interactive & Notebooks
+ipython
 jupyterlab
-matplotlib
-mkdocs
 notebook
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Documentation
+mkdocs
+
+# Data Science & Machine Learning
 numpy
 pandas
+scikit-learn
+transformers
+torch
+xgboost
+lightgbm
+spacy
+accelerate>=0.26.0
+
+# Serialization & File Formats
+pyarrow
+
+# Utilities
 pip
 python-dotenv
-scikit-learn
+emoji
+
+# Local Package (Editable Install)
 -e .
