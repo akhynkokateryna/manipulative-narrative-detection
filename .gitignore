@@ -1,8 +1,7 @@
 # Data
-/data/
-/notebooks/data/train.parquet
-/notebooks/data/test.csv
-/notebooks/data/solution*.csv
+/data/train.parquet
+/data/test.csv
+/data/solution*.csv
 # Mac OS-specific storage files
 .DS_Store
 
