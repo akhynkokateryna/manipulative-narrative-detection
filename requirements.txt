@@ -21,10 +21,12 @@ pandas
 scikit-learn
 transformers
 torch
-xgboost
+catboost
 lightgbm
 spacy
 accelerate>=0.26.0
+langdetect
+sentencepiece
 
 # Serialization & File Formats
 pyarrow
