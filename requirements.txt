@@ -27,6 +27,10 @@ spacy
 accelerate>=0.26.0
 langdetect
 sentencepiece
+bitsandbytes
+peft
+datasets
+pynvml
 
 # Serialization & File Formats
 pyarrow
